@@ -132,7 +132,7 @@
       "ae": "automotive",
 // // =========================================================
 // SETTING ANTI SS RECORD =====================================
-      "af": "1",
+      "af": "0",
 // // =========================================================
 // TEXT SHARE APP =============================================
       
@@ -170,129 +170,48 @@
   "Data": [ 
     {
       "id": 1,
-      "name_category": "🥭  Mangox",
-      "title": "CHAPTER 01",
+      "name_category": "🥭  Mango",
+      "title": "CHAPTER 02",
       "type_file": "HTML",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkY8LJW4MK7C6q9_yHjNQEoFuLdayB00f5Eh7B3fHqacw1r4wQxsHLnzjTg3QoLhmB5pXdWHf8SrywNWwisyThSNXtJ4rPb7D27DcxC87U5VJtLX08whTd3QB-lHqLg-AQwYJmNUVDZ7Bc8aPoQCpHpCE7LlLaxl4Ss1my35ZN2ns_g8hh9xHrCV7phgqz/s320/1.webp",
+      "image": "https://",
       "description": "",
-      "link": "https://archive.org/download/15062023gaspoLLL/upload26082023komikukomikulaku/Monster%20Hunter%20Orage%20Chapter%20001X"
+      "link": "https://"
     }, 
     {
       "id": 2,
       "name_category": "🥭  Mango",
       "title": "CHAPTER 02",
       "type_file": "HTML",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYpWLVbVK_Q7lCod_Nhn0QtnSm9LNMJz9eIsa2oG_QzTew73JSQpA66EqWAwD7fcvPt4ymBeYo35Mh7v4i3h3vWJvCSPr0chhJ4g0_FQieinK2LE85nExyFog1qokSzTgTdl0ng7H7q-qdb9ZustIr4HJvvjmHQEGXIVGGyGnS5wBzGKElWTYuswNhYo-q/s320/2.webp",
+      "image": "https://",
       "description": "",
-      "link": "https://archive.org/download/15062023gaspoLLL/upload26082023komikukomikulaku/Monster%20Hunter%20Orage%20Chapter%20002X"
+      "link": "https://"
     }, 
     {
       "id": 3,
       "name_category": "🥭  Mango",
-      "title": "CHAPTER 03",
+      "title": "CHAPTER 02",
       "type_file": "HTML",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhumv_Jx_flUYMTfsG7qlTl1SF9jSpj4ImfVCeT9wVeOIJSUWb_X3APuPNfFDpvESwqDsJHpNXBRWFGbTECYj2yjHLNfu091FFRTk8sXb28SSHgDCcLkwfVBTws1O8YYnQD_dSdQXYLfdSjj0kMelcDCc3UFZKfpjM9nWcKDXXNPI14c2tpGfGlUiRxAlXG/s320/3.webp",
+      "image": "https://",
       "description": "",
-      "link": "https://archive.org/download/15062023gaspoLLL/upload26082023komikukomikulaku/Monster%20Hunter%20Orage%20Chapter%20003X"
+      "link": "https://"
     }, 
     {
       "id": 4,
       "name_category": "🥭  Mango",
-      "title": "CHAPTER 04",
+      "title": "CHAPTER 02",
       "type_file": "HTML",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjirBcx9v7frL3BzKXIHKoAkYzT8ZaHHCD0QzGu4Ydjag5iU0s6s9oae6oD6EW_H0IRgopzGrsGrP8MDHGMRwLIzkv8cpBak3rRtry3UIXErq6uJxwjUdBBaPszx9N5133aOKwbZkkvQooXyTJe8QL9OjlRZQOYcLOG9dqpra214K6QTjmxTQ67uBKKlkoN/s320/4.webp",
+      "image": "https://",
       "description": "",
-      "link": "https://archive.org/download/15062023gaspoLLL/upload26082023komikukomikulaku/Monster%20Hunter%20Orage%20Chapter%20004X"
+      "link": "https://"
     }, 
     {
       "id": 5,
       "name_category": "🥭  Mango",
-      "title": "CHAPTER 05",
+      "title": "CHAPTER 02",
       "type_file": "HTML",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMY3Fkj4YcCogfMKhNYLlfSUJVV59bXFOexZSjBYwagsEeKVg_pH6IUHF17iG7QaaSXjT1c3p1JRa0Pdl2kZbK2zRFj_33nLikHoBbX6CsXLEiIuUWX8us9kE46NOwZLoq9uA5TBSYNBMTkjXT8W81a9WTXwEP5d1zh8M-ysLdy4SjkajTEXxHHq4gANHl/s320/5.webp",
+      "image": "https://",
       "description": "",
-      "link": "https://archive.org/download/15062023gaspoLLL/upload26082023komikukomikulaku/Monster%20Hunter%20Orage%20Chapter%20005X"
-    }, 
-    {
-      "id": 6,
-      "name_category": "🥭  Mango",
-      "title": "CHAPTER 06",
-      "type_file": "HTML",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9TeFzX7GejpP2_3c1IrsEwcBem4BRYfgQbkYfJJ71PfW2-_M20VMPIvnBDheoZOZVqdO2T4YUa59b_nSCadIg_T7N7O03derbBRInFbTgabnBEBubvjE-ARvLlPRqfuGpn11pPI1ogJ-zgcaZL0Hi7jgLaqfYRzVFGB40RB2fxufrUVkb8zUcIRZg_3y4/s320/6.webp",
-      "description": "",
-      "link": "https://archive.org/download/15062023gaspoLLL/upload26082023komikukomikulaku/Monster%20Hunter%20Orage%20Chapter%20006X"
-    }, 
-    {
-      "id": 7,
-      "name_category": "🥭  Mango",
-      "title": "CHAPTER 07",
-      "type_file": "HTML",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfQ0y8nhYD-s6YZdX6CfytmvWcgAzTj1sn7NXFcLzOMm_CdBSXXVQeNtOXva-5DLTZa5IZP-Ek_lmWAcdng1CQiXFYA3FN42oN8qi5E-AVB6Id2Dtc5I7giSnQax-vfwXX56RtVVxuP5qIwTpkKxdYS5kVo_vjAX9FNrIpE3GwAVaYxX0HEcI4_U_253dy/s320/7.webp",
-      "description": "",
-      "link": "https://archive.org/download/15062023gaspoLLL/upload26082023komikukomikulaku/Monster%20Hunter%20Orage%20Chapter%20007X"
-    }, 
-    {
-      "id": 8,
-      "name_category": "🥭 Mango",
-      "title": "CHAPTER 08",
-      "type_file": "HTML",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRbGxuHH31xnPrf7Z0fz0X9TDMBbXrrI5SzeBqwMORcs8fZwotDOHD1lLHuFb6GEoFQ4nyEOlDn8Kc0GOk-ExvrgKdCk4zFZRNgbM2Ehn9VJsNAMwo5A8j7YKF73CImeQIrb5v3XSlDE44aL8DK3G1nFWayf_5sZ49042Sjof3L4Tt9RJcVTl3TdO1X9mT/s320/8.webp",
-      "description": "",
-      "link": "https://archive.org/download/15062023gaspoLLL/upload26082023komikukomikulaku/Monster%20Hunter%20Orage%20Chapter%20008X"
-    }, 
-    {
-      "id": 9,
-      "name_category": "🥭  Mango",
-      "title": "CHAPTER 09",
-      "type_file": "HTML",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiHPU_HF8K9-2wPeqLNcEzqjs6aBqsIMAedfi6ISumkp7RtawDRFloKHcWPKVg_zhUMCzuUyG1bcqOQzEs8AYcCYtwwbdOzJrKOXk0nz-FIR9Rt52xqsZ_RFHywV4f26-Y9tlcH1000zY03BsBDhSN3hmIqPH48rSC9FApjNN4WWMjPEIChgA4fAwBbnRu/s320/9.webp",
-      "description": "",
-      "link": "https://archive.org/download/15062023gaspoLLL/upload26082023komikukomikulaku/Monster%20Hunter%20Orage%20Chapter%20009X"
-    }, 
-    {
-      "id": 10,
-      "name_category": "🥭  Mango",
-      "title": "CHAPTER 10",
-      "type_file": "HTML",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkkHIZ8k6YOWaRHNv0nCzIGFQlHnq9n1-S5qdJX3BxoSC7XybY9q7qBLKEmjuFR8hkAXzppUf7VkRZpbP2fnX6OtsJ-9HtprFPNQl-ZvbAV8VF5Jqin5M7_Q9-_A3_yJDNocMD9cf2P2tPoyl3g9KYVSZStlxvFjubL_ZP40kG3a055R7Rk5s59uu6Yh9H/s320/10.webp",
-      "description": "",
-      "link": "https://archive.org/download/15062023gaspoLLL/upload26082023komikukomikulaku/Monster%20Hunter%20Orage%20Chapter%20010X"
-    }, 
-    {
-      "id": 11,
-      "name_category": "🥭  Mango",
-      "title": "CHAPTER 11",
-      "type_file": "HTML",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8UIWosxpEaYYSsihS-wcxiLXqsyhotP6ne9ku9jmvyP4Sf0T6pEJ14js_utANBmVOWjzPQa4npcZb86p2i19zW2RlwiVWxoTDulT3fTY37f1rMv-_cn8F7ODNzykPikYKuTPRkLQKSoDadNEY-34X73qStsYtBsCJYOBmCECGRbnvD--JnF4bPloJF2y5/s320/11.webp",
-      "description": "",
-      "link": "https://archive.org/download/15062023gaspoLLL/upload26082023komikukomikulaku/Monster%20Hunter%20Orage%20Chapter%20011X"
-    }, 
-    {
-      "id": 12,
-      "name_category": "🥭  Mango",
-      "title": "CHAPTER 12",
-      "type_file": "HTML",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw4EFH7KmQWbMOELEWwYwyuPfgGb8vbnJQZtkDjXPrbl5oXdDZZuBUovJw8eyGNNXvlVxAzyUfxHBm3-juMaGYDsPSfBvgxvat1CfTRp11Ic-AeZgKLrWwgqwTCKfd59SvjG7khckpWgUROlbICYwRhvIZw0QPXvuIQOsT4NH52VR-u2rAEELhsqbGtJmE/s320/12.webp",
-      "description": "",
-      "link": "https://archive.org/download/15062023gaspoLLL/upload26082023komikukomikulaku/Monster%20Hunter%20Orage%20Chapter%20012X"
-    }, 
-    {
-      "id": 13,
-      "name_category": "🥭  Mango",
-      "title": "CHAPTER 13",
-      "type_file": "HTML",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8eaxENXkYt37mNKrrS4atwt5aFPpH4cR-JIZM6_ZXfM3oBPkmWlDFvUSJLxMaSSMqvYvhG0JWpv70GGSlxdciRVmLKSARxP5fyWckdE-H-9xr9L6ioPZQJasISmdlBaKOXVjWf79hnUm6RQYbIhEuCh22rA0-7oGwzfRCO8H8ANC71EQN3s2lbuGgwhdj/s320/13.webp",
-      "description": "",
-      "link": "https://archive.org/download/15062023gaspoLLL/upload26082023komikukomikulaku/Monster%20Hunter%20Orage%20Chapter%20013X"
-    }, 
-    {
-      "id": 14,
-      "name_category": "🥭  Mango",
-      "title": "CHAPTER 14",
-      "type_file": "HTML",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-mpV06fNzVCJy5WbjbeW9XgkbuvYThTAlLAvvYR17ZukPwWcJFdzu3tLhh9ealROotrm-SE20S-roK0bIwml3akwotvwgZ17Kx82H6QwyW1slIuXlwqE--lWYeIDnzK4PJi_WlXwTHoXRzdQ2eHGaoyJ3QtukjtZF9Wavj5iOIV1e14G10fUNk9qcRvnt/s320/14.webp",
-      "description": "",
-      "link": "https://archive.org/download/15062023gaspoLLL/upload26082023komikukomikulaku/Monster%20Hunter%20Orage%20Chapter%20014X"
+      "link": "https://"
     }
   ]
 }
