@@ -132,7 +132,7 @@
       "ae": "automotive",
 // // =========================================================
 // SETTING ANTI SS RECORD =====================================
-      "af": "0",
+      "af": "1",
 // // =========================================================
 // TEXT SHARE APP =============================================
       
@@ -170,7 +170,7 @@
   "Data": [ 
     {
       "id": 1,
-      "name_category": "🥭  Mango",
+      "name_category": "🥭  Mangox",
       "title": "CHAPTER 01",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkY8LJW4MK7C6q9_yHjNQEoFuLdayB00f5Eh7B3fHqacw1r4wQxsHLnzjTg3QoLhmB5pXdWHf8SrywNWwisyThSNXtJ4rPb7D27DcxC87U5VJtLX08whTd3QB-lHqLg-AQwYJmNUVDZ7Bc8aPoQCpHpCE7LlLaxl4Ss1my35ZN2ns_g8hh9xHrCV7phgqz/s320/1.webp",
